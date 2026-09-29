@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=JST_S2B-PH-K-S(LF)(SN) New Footprint=CONN_532610001-SD_02_MOL
+Change Component Comment : Designator=J1 Old Comment=S2B-PH-K-S(LF)(SN) New Comment=532610271
+Change component parameters: Designator = "J1" ("J1"); Footprint = "JST_S2B-PH-K-S(LF)(SN)"; UniqueID = "\ECXSMGBI\JKTHBWVE" ("\ECXSMGBI\JKTHBWVE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/532610271/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "532610271"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/532610271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

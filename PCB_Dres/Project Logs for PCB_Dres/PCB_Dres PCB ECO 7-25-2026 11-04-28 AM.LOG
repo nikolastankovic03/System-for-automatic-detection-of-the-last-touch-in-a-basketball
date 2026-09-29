@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R4 Old Footprint=LEDSC160X80X70L45N New Footprint=RESC1005X40N
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetD1_A Pin=R4-2

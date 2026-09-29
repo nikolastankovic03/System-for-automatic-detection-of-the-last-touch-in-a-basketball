@@ -1,0 +1,87 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\PCB_Lopta\PCB_Lopta.PcbDoc
+Date     : 7/23/2026
+Time     : 3:09:10 PM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+   Violation between Clearance Constraint: (0.153mm < 0.203mm) Between Pad MT1-11(6.362mm,28.951mm) on Top Layer And Track (5.884mm,28.568mm)(6.091mm,28.361mm) on Top Layer 
+   Violation between Clearance Constraint: (0.175mm < 0.203mm) Between Pad MT1-13(6.2mm,27.789mm) on Top Layer And Track (6.2mm,28.289mm)(6.287mm,28.289mm) on Top Layer 
+   Violation between Clearance Constraint: (0.125mm < 0.203mm) Between Pad U5-1(13.79mm,10.4mm) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (0.125mm < 0.203mm) Between Pad U5-24(1.2mm,10.4mm) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
+   Violation between Clearance Constraint: (0.146mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (5.884mm,28.568mm)(6.091mm,28.361mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (6.2mm,28.289mm)(6.287mm,28.289mm) on Top Layer 
+   Violation between Clearance Constraint: (0.099mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (6.362mm,26.626mm)(6.384mm,26.604mm) on Top Layer 
+   Violation between Clearance Constraint: (0.115mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (6.384mm,26.242mm)(6.384mm,26.604mm) on Top Layer 
+   Violation between Clearance Constraint: (0.099mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (7.863mm,28.951mm)(7.863mm,29.313mm) on Top Layer 
+   Violation between Clearance Constraint: (0.088mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (8.025mm,27.789mm)(8.025mm,28.289mm) on Top Layer 
+   Violation between Clearance Constraint: (0.088mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (8.025mm,27.789mm)(8.047mm,27.767mm) on Top Layer 
+   Violation between Clearance Constraint: (0.088mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (8.025mm,28.289mm)(12.611mm,28.289mm) on Top Layer 
+   Violation between Clearance Constraint: (0.109mm < 0.203mm) Between Region (0 hole(s)) Keep-Out Layer And Track (8.047mm,27.767mm)(8.409mm,27.767mm) on Top Layer 
+Rule Violations :13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (Disabled)(InNet('AGND')),(InNet('DGND'))
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Track (7.863mm,28.951mm)(7.863mm,29.313mm) on Top Layer And Pad MT1-5(8.025mm,27.289mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L02_P001) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Polygon  (NONET_L02_P002) on Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :3
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.6mm) (Preferred=0.4mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3mm) (InPadClass('Mounting_Holes'))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.048mm) (InDifferentialPairClass('USB_DATA'))
+Rule Violations :0
+
+Processing Rule : Room U_ESP32_Module (Bounding Region = (51.6mm, 77.3mm, 91.2mm, 116.362mm) (InComponentClass('U_ESP32_Module'))
+   Violation between Room Definition: Between Component SW1-SW-PB (35mm,35.9mm) on Top Layer And Room U_ESP32_Module (Bounding Region = (51.6mm, 77.3mm, 91.2mm, 116.362mm) (InComponentClass('U_ESP32_Module')) 
+   Violation between Room Definition: Between Component SW2-SW-PB (25.31mm,35.9mm) on Top Layer And Room U_ESP32_Module (Bounding Region = (51.6mm, 77.3mm, 91.2mm, 116.362mm) (InComponentClass('U_ESP32_Module')) 
+   Violation between Room Definition: Between Room U_ESP32_Module (Bounding Region = (51.6mm, 77.3mm, 91.2mm, 116.362mm) (InComponentClass('U_ESP32_Module')) And SMT Small Component C3-Cap (17.5mm,37.1mm) on Top Layer 
+   Violation between Room Definition: Between Room U_ESP32_Module (Bounding Region = (51.6mm, 77.3mm, 91.2mm, 116.362mm) (InComponentClass('U_ESP32_Module')) And SMT Small Component C5-Cap (19.6mm,37.1mm) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Room U_ICM-42670-P_IMU (Bounding Region = (52.4mm, 102.5mm, 60.6mm, 107.789mm) (InComponentClass('U_ICM-42670-P_IMU'))
+Rule Violations :0
+
+Processing Rule : Room U_DWM3000TR13 (Bounding Region = (51.2mm, 77.3mm, 68.683mm, 101.838mm) (InComponentClass('U_DWM3000TR13'))
+   Violation between Room Definition: Between Component U5-DWM3000TR13 (7.495mm,11.35mm) on Top Layer And Room U_DWM3000TR13 (Bounding Region = (51.2mm, 77.3mm, 68.683mm, 101.838mm) (InComponentClass('U_DWM3000TR13')) 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:00

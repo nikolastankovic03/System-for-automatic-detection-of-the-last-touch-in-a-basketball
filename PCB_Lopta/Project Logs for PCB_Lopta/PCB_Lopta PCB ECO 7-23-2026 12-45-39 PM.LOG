@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1/B12
+Removed Pin From Net: NetName=V_USB Pin=J1-A4/B9
+Removed Pin From Net: NetName=GND Pin=J1-B1/A12
+Removed Pin From Net: NetName=V_USB Pin=J1-B4/A9
+Removed Pin From Net: NetName=GND Pin=J1-S1
+Removed Pin From Net: NetName=GND Pin=J1-S2
+Removed Pin From Net: NetName=GND Pin=J1-S3
+Removed Pin From Net: NetName=GND Pin=J1-S4
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Member From Class: ClassName=U_ESP32_Module Member=R2
+Removed Member From Class: ClassName=U_ESP32_Module Member=R5
+Change Component Footprint: Designator=J1 Old Footprint=GCT_USB4110GFA New Footprint=JST_B2B-PH-K-S(LF)(SN)
+Change Component Comment : Designator=J1 Old Comment=USB4110GFA New Comment=B2B-PH-K-S(LF)(SN)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "GCT_USB4110GFA"; UniqueID = "\ECXSMGBI\JKFSSLLO" ("\ECXSMGBI\JKFSSLLO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-PH-K-S%20(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B2B-PH-K-S (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-PH-K-S%20(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_USB Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=V_USB New Net Name=NetC9_2

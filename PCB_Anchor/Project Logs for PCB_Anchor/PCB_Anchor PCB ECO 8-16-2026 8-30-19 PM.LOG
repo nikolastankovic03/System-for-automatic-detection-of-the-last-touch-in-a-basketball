@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+3.3V Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=NetR6_1 Pin=U5-1
+Removed Pin From Net: NetName=NetR5_1 Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Member From Class: ClassName=U_ESP32_Module_Anchor Member=C5
+Added Component: Designator=R14(RESC1005X40)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k (5%)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R14-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=SW2-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-25
+Added Net: Name=NetR14_1
+Added Member To Class: ClassName=U_ESP32_Module_Anchor Member=Component R14 Res1

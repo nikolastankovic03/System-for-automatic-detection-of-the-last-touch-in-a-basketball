@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_DWM3000TR13|SchDesignator=U_DWM3000TR13|FileName=DWM3000TR13.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=DWM3000TR13.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_ESP32_Module|SchDesignator=U_ESP32_Module|FileName=ESP32_Module.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ESP32_Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_ICM-42670-P_IMU|SchDesignator=U_ICM-42670-P_IMU|FileName=ICM-42670-P_IMU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ICM-42670-P_IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

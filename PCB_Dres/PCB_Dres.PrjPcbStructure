@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_DWM3000|SchDesignator=U_DWM3000|FileName=DWM3000.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DWM3000.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_ESP32_Module|SchDesignator=U_ESP32_Module|FileName=ESP32_Module.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ESP32_Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

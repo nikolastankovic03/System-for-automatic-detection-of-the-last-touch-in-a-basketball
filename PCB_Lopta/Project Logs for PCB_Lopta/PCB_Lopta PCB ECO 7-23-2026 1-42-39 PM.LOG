@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Change Component Footprint: Designator=J1 Old Footprint=CONN_532610001-SD_02_MOL New Footprint=CONN_SM02B-SRSS-TB_JST
+Change Component Comment : Designator=J1 Old Comment=532610271 New Comment=SM02B-SRSS-TB (LF)(SN)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CONN_532610001-SD_02_MOL"; UniqueID = "\ECXSMGBI\TBAXPNRH" ("\ECXSMGBI\TBAXPNRH")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM02B-SRSS-TB (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
